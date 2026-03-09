@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040239
+# Name:Pranav Bhargav M
+# Date: 09/03/26
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1220" height="818" alt="image" src="https://github.com/user-attachments/assets/0af5e9b5-041b-4f72-b328-de17c24a818a" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1218" height="796" alt="image" src="https://github.com/user-attachments/assets/4a8dd3b4-7aee-4c35-ae9d-9ce325477adb" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1335" height="722" alt="image" src="https://github.com/user-attachments/assets/85068b98-282e-4437-9afa-6a8f753ea652" />
 
 
 # PACKAGE DIAGRAM:
@@ -78,6 +81,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1091" height="790" alt="image" src="https://github.com/user-attachments/assets/d2191bb4-77c7-4388-a008-3153ff2a40ae" />
 
 
 
@@ -95,6 +99,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="853" height="810" alt="image" src="https://github.com/user-attachments/assets/95a16b39-aaed-40f4-a304-ea411d2955f3" />
 
 
 
@@ -118,6 +123,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="765" height="684" alt="image" src="https://github.com/user-attachments/assets/873e97d8-2cb6-430e-8603-1ee16b7e58ed" />
 
 
 
